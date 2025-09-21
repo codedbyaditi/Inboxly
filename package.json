@@ -2,5 +2,25 @@
   "dependencies": {
     "lucide-react": "^0.541.0",
     "react-router-dom": "^7.8.2"
-  }
+  },
+  "name": "inboxly",
+  "version": "1.0.0",
+  "description": "**Inboxly** is a standalone, real-time messenger platform designed for teams and products that need a fully integratable communications inbox — at both the **API level** and **code level**. Build a hosted messaging service or embed Inboxly directly into your app for seamless messaging experiences.",
+  "main": "index.js",
+  "devDependencies": {
+    "vite": "^7.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedbyaditi/Inboxly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedbyaditi/Inboxly/issues"
+  },
+  "homepage": "https://github.com/codedbyaditi/Inboxly#readme"
 }
